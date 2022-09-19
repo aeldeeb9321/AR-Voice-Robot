@@ -292,6 +292,8 @@
 				DEVELOPMENT_TEAM = 7SA8N5B57Q;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow microphone usage for built in app functionality.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Please allow speech recognition for cool Ar content.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -322,6 +324,8 @@
 				DEVELOPMENT_TEAM = 7SA8N5B57Q;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow microphone usage for built in app functionality.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Please allow speech recognition for cool Ar content.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
